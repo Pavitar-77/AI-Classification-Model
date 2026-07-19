@@ -1,4 +1,4 @@
-# 🌸 AI Data Classification Using Decision Tree
+# AI Data Classification Using Decision Tree
 
 ## Project Overview
 

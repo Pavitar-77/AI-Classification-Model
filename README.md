@@ -106,8 +106,3 @@ Actual: 2 | Predicted: 2
 
 ---
 
-## Author
-
-**Your Name**
-
-Artificial Intelligence Internship – DecodeLabs
